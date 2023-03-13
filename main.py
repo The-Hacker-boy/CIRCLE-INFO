@@ -1,4 +1,4 @@
-# Codded By Ariful Islam Arman (ARU)
+# Coded by AHESAN
 # writen With python
 import os, time, sys, random,webbrowser
 # Color Value
