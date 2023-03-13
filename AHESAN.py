@@ -101,9 +101,9 @@ def clr():
         os.system('clear')
 def fb():
     if os.name == 'nt':
-        webbrowser.open('https://www.facebook.com/")
+        webbrowser.open('https://www.facebook.com/mr.ahesan")
     else:
-        os.system('xdg-open https://www.facebook.com/")
+        os.system('xdg-open https://www.facebook.com/mr.ahesan")
 def github():
     if os.name == 'nt':
         webbrowser.open('https://github.com/The-hacker-boy/")
@@ -116,9 +116,9 @@ def chat():
         os.system('xdg-open https://m.me/1R13A14')
 def insta():
     if os.name == 'nt':
-        webbrowser.open('https://www.instagram.com/')
+        webbrowser.open('https://www.instagram.com/mr.ahesan')
     else:
-        os.system('xdg-open https://www.instagram.com/')
+        os.system('xdg-open https://www.instagram.com/mr.ahesan')
 def yt():
     if os.name == 'nt':
         webbrowser.open(' https://youtube.com/c")
