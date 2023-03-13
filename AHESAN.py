@@ -101,12 +101,12 @@ def clr():
         os.system('clear')
 def fb():
     if os.name == 'nt':
-        webbrowser.open('https://www.facebook.com/mdjisan.raj.54?mibextid=ZbWKwL/")
+        webbrowser.open("https://www.facebook.com/mdjisan.raj.54?mibextid=ZbWKwL/")
     else:
-        os.system('xdg-open https://www.facebook.com/mdjisan.raj.54?mibextid=ZbWKwL/")
+        os.system("xdg-open https://www.facebook.com/mdjisan.raj.54?mibextid=ZbWKwL/")
 def github():
     if os.name == 'nt':
-        webbrowser.open('https://github.com/The-hacker-boy/")
+        webbrowser.open("https://github.com/The-hacker-boy/")
     else:
         os.system('xdg-open https://github.com/The-hacker-boy/')
 def chat():
